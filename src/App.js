@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <button>Increment</button>
-      <div>Value: </div>
+      <div>Value: 0</div>
       <button>Decrement</button>
     </div>
   );
